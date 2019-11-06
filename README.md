@@ -1,7 +1,7 @@
 # Focus
-No Distractions == Higher Grades!
+Study Timer
 
-This is meant to run a simple loop for an Arduino, which I wired some LEDs to. 
+This is meant to run a simple loop for an Arduino, which I wired some LEDs to (between 2-13). 
 The purpose is to have them switch on and off, to point out whether its study time or break time. 
 
 I want to modify the code so that I can eventually add the following:
